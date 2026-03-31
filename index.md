@@ -74,7 +74,23 @@ By manipulating the "weights" of the manifold—shifting a radar installation, m
 
 Ukubona LLC goes with: 
 
-Tensor -> Matrix -> Vector -> Eigenmode (Identity) -> Scakar (KPI) = Sensation -> Attention (is all you need) -> Intension -> Reaction -> Action
+$$
+\text{Tensor} \to 
+\text{Matrix} \to 
+\text{Vector} \to 
+\text{Eigenmode (Identity)} \to 
+\text{Scalar (KPI)} 
+$$
+
+= 
+
+$$
+\text{Sensation} \to 
+\text{Attention (is all you need)} \to 
+\text{Intention} \to 
+\text{Reaction} \to 
+\text{Action} 
+$$
 
 ---
 
