@@ -774,6 +774,7 @@ $$
 Higher value = stronger local warping of the manifold (dense, low-altitude economic hubs bend geodesics most). Altitude enters directly as loss in the denominator — exactly as requested.
 
 ### Computed District Loci (Sample of 12 Major Nodes for Clarity)
+
 | District   | Lat     | Lon      | Alt (m) | Pop 2024     | GDP Proxy (mUSD) | Flow Mass     | Curvature Proxy |
 |------------|---------|----------|---------|--------------|------------------|---------------|-----------------|
 | Kampala   | 0.3136 | 32.5811 | 1,190  | 1,875,834   | 4,695           | 8,807        | **7.63**       |
