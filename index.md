@@ -28,6 +28,7 @@
 For context:
 - [Geodesic](https://ukubona-llc.github.io/geodesic/)
 - [Manifold](https://ukubona-llc.github.io/manifold/)
+- [Intelligence](https://ukubona-llc.github.io/intelligence/)
 
 Intercepting the enemy (eg missile), by seeing (Ukubona LLC) their geodesic under the manifold curved by the weights of war
 # Google
