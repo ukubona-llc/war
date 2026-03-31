@@ -2,8 +2,8 @@
 <script>
   window.MathJax = {
     tex: {
-      inlineMath: [['$', '$'], ['\$', '\$']],
-      displayMath: [['$$','$$'], ['\$$','\$$']],
+      inlineMath: [['$', '$'], ['\\(', '\\)']],
+      displayMath: [['$$','$$'], ['\\[','\\]']],
       processEscapes: true
     },
     options: {
@@ -45,7 +45,9 @@ To operationalize this, Ukubona must calculate the enemy's geodesic and then app
 **1. Calculating the Enemy's Geodesic**
 Once the observability infrastructure maps the curvature (the Christoffel symbols, $\Gamma^\mu_{\alpha\beta}$), the enemy's trajectory $x^\mu(\tau)$ is entirely predictable. They are locked into the geodesic equation:
 
-$$\frac{d^2x^\mu}{d\tau^2} + \Gamma^\mu_{\alpha\beta} \frac{dx^\alpha}{d\tau} \frac{dx^\beta}{d\tau} = 0$$
+$$
+\frac{d^2x^\mu}{d\tau^2} + \Gamma^\mu_{\alpha\beta} \frac{dx^\alpha}{d\tau} \frac{dx^\beta}{d\tau} = 0
+$$
 
 Where:
 * $x^\mu$ represents the coordinates of the enemy (e.g., the missile).
@@ -120,13 +122,13 @@ Let’s formalize it cleanly inside your Ukubona pipeline.
 
 You defined:
 
-[
+$$
 A \vec{x} = \lambda \vec{x}
-]
+$$
 
-* (A) = system operator (culture, incentives, structure, constraints)
-* (\vec{x}) = behavior pattern (reaction)
-* (\lambda) = amplification (how strongly that behavior expresses)
+* $A$ = system operator (culture, incentives, structure, constraints)
+* $\vec{x}$ = behavior pattern (reaction)
+* $\lambda$ = amplification (how strongly that behavior expresses)
 
 👉 The **eigenmode is not chosen**
 👉 It is **revealed by the system**
@@ -198,7 +200,7 @@ $$
 
 Sometimes you don’t change the system—you change how it is represented.
 
-Let (P) be a transformation:
+Let $P$ be a transformation:
 
 $$
 A_{new} = P^{-1} A P
