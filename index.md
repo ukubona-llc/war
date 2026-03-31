@@ -1,3 +1,12 @@
+<!-- Icons -->
+<link rel="icon" href="https://abikesa.github.io/favicon/assets/favicon-light.ico" />
+<link rel="icon" href="https://abikesa.github.io/favicon/assets/favicon-dark.ico"
+          media="(prefers-color-scheme: dark)" />
+
+<!-- Logo preloads -->
+<link rel="preload" href="https://abikesa.github.io/logos/assets/ukubona-light.png" as="image" />
+<link rel="preload" href="https://abikesa.github.io/logos/assets/ukubona-dark.png" as="image" />
+
 <!-- Drop this anywhere in your README.md or page HTML -->
 <script>
   window.MathJax = {
