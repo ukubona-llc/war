@@ -88,10 +88,10 @@ $$
 \text{Matrix} \to 
 \text{Vector} \to 
 \text{Eigenmode (Identity)} \to 
-\text{Scalar (KPI)} 
+\text{Scalar (KPI)} = 
 $$
 
-= 
+
 
 $$
 \text{Sensation} \to 
